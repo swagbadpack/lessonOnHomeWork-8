@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="Миша">
+  <Address>
+    <street>Улица</street>
+    <houseNumber>номер дома</houseNumber>
+    <flatNumber>номер квартиры</flatNumber>
+  </Address>
+  <Phones>
+    <number>89999999999</number>
+    <flatPhone>-133</flatPhone>
+  </Phones>
+</Person>

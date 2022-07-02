@@ -1,0 +1,8 @@
+C:\Users\Миша\source\repos\lesson 8 ДЗ\lesson 8 ДЗ\obj\Debug\lesson 8.1 ДЗ.csproj.AssemblyReference.cache
+C:\Users\Миша\source\repos\lesson 8 ДЗ\lesson 8 ДЗ\obj\Debug\lesson 8.1 ДЗ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Миша\source\repos\lesson 8 ДЗ\lesson 8 ДЗ\obj\Debug\lesson 8.1 ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\lesson 8 ДЗ\lesson 8 ДЗ\obj\Debug\lesson 8 ДЗ.exe
+C:\Users\Миша\source\repos\lesson 8 ДЗ\lesson 8 ДЗ\obj\Debug\lesson 8 ДЗ.pdb
+C:\Users\Миша\source\repos\lesson 8 ДЗ\lesson 8 ДЗ\bin\Debug\lesson 8 ДЗ.exe.config
+C:\Users\Миша\source\repos\lesson 8 ДЗ\lesson 8 ДЗ\bin\Debug\lesson 8 ДЗ.exe
+C:\Users\Миша\source\repos\lesson 8 ДЗ\lesson 8 ДЗ\bin\Debug\lesson 8 ДЗ.pdb
